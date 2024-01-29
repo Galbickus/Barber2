@@ -9,7 +9,10 @@
 <img src="https://img.shields.io/badge/HTML-red"> <img src="https://img.shields.io/badge/-CSS-blue">    <img src="https://img.shields.io/badge/VSC-green">  
 
 <h2>Consigna</h2>
+
 Hacer una página web estática con fotografias.
+
+<h2> </h2>
  
 
  ![image](https://github.com/Galbickus/Barber2/assets/135274833/99b490d2-5943-4cbd-86bd-69604ec5523c)
