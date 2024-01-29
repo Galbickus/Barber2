@@ -31,7 +31,7 @@ em strong{
 
 .diferenciales{
     background: #FFFFFF;
-    padding: 30px;
+    padding: 20px;
 }
 
 .items{
@@ -42,7 +42,7 @@ ul{
     display: inline-block;
     vertical-align: top;
     width: 20%;
-    margin-right: 15%;
+    margin-right: 10%;
 }
 
 .imagenDiferenciales{
