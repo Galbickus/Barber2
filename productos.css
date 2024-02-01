@@ -32,6 +32,9 @@ nav a{
 }
 .productos li{
     display: inline-block;
+    text-align: center;
+    width: 30%;
+    
 }
 .productos h2{
     font-size: 30px;
