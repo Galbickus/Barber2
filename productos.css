@@ -61,6 +61,10 @@ nav a:hover{
     font-weight: bold;
 }
 
+.productos li:hover h2{
+    font-size: 33px;
+}
+
 .producto-descripcion{
     font-size: 18px;
 }
