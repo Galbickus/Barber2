@@ -26,6 +26,10 @@ nav a{
     font-size: 22px;
     text-decoration: none;
 }
+
+nav a:hover{
+    color: #c78c19;
+}
 .productos{
    width: 940px; 
    margin: 0 auto;
