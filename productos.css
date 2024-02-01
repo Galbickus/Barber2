@@ -26,6 +26,11 @@ nav a{
     font-size: 22px;
     text-decoration: none;
 }
+.productos{
+   width: 940px; 
+   margin: 0 auto;
+   
+}
 .productos li{
     display: inline-block;
 }
