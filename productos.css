@@ -29,8 +29,11 @@ nav a{
 .productos{
    width: 940px; 
    margin: 0 auto;
-   
 }
 .productos li{
     display: inline-block;
+}
+.productos hs{
+    font-size: 30px;
+    font-weight: bold;
 }
