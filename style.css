@@ -86,3 +86,16 @@ footer{
     font-size: 13px;
     margin: 20px;
 }
+
+main{
+ width: 940px;   
+ margin: 0 auto;
+}
+
+form label{
+    display: block;
+}
+
+form input{
+    display: block;
+}
