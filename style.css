@@ -92,6 +92,10 @@ main{
  margin: 0 auto;
 }
 
+form{
+    margin: 40px 0;
+}
+
 form label{
     display: block;
 }
