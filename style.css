@@ -98,8 +98,11 @@ form{
 
 form label{
     display: block;
+    font-size: 20px;
+    margin: 0 0 10px;
 }
 
 form input{
     display: block;
+    margin: 0 0 20px;
 }
