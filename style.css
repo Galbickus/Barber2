@@ -139,3 +139,6 @@ thead{
     font-weight: bold;
 }
 
+td{
+    border: 1px solid #000000;
+}
