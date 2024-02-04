@@ -115,4 +115,9 @@ form label,form legend{
     width:40%;
     padding: 15px 0;
     font-size: 18px;
+    font-weight: bold;
+    color: white;
+    background: purple;
+    border: none;
+    border-radius: 5px;
 }
