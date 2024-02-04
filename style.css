@@ -132,3 +132,10 @@ form label,form legend{
 table{
     margin: 40px 40px;
 }
+
+thead{
+    background: #555555;
+    color: white;
+    font-weight: bold;
+}
+
