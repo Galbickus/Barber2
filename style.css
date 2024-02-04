@@ -117,7 +117,12 @@ form label,form legend{
     font-size: 18px;
     font-weight: bold;
     color: white;
-    background: purple;
+    background: rgb(250, 178, 43);
     border: none;
     border-radius: 5px;
+    transition: 1s background;
+}
+
+.enviar:hover{
+    background: darkorange;
 }
