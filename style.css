@@ -187,7 +187,13 @@ td, th{
     text-align: center;
 }
 
-.imagenDiferenciales{
+.contenido-diferenciales{
+    width: 640px;
+    margin: 0 auto;
+}
+
+
+.imagen-diferenciales{
     width: 60%;
 }
 
