@@ -167,6 +167,9 @@ td, th{
     font-style: italic;
 }
 
+.utensilios{
+   width: 120px; 
+}
 
 .imagenDiferenciales{
     width: 60%;
