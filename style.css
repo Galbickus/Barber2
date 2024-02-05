@@ -198,6 +198,10 @@ td, th{
     vertical-align: top;
 }
 
+.items{
+    line-height: 1.5;
+}
+
 .imagen-diferenciales{
     width: 60%;
 }
