@@ -178,6 +178,15 @@ td, th{
    margin: 0 20px 20px 0; /* sup - der - inf - izq (sentido horario)*/
 }
 
+.mapa{
+    padding: 3em 0 0 1em;
+}
+
+.mapa p{
+    margin: 0 0 2em;
+    text-align: center;
+}
+
 .imagenDiferenciales{
     width: 60%;
 }
