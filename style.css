@@ -192,6 +192,11 @@ td, th{
     margin: 0 auto;
 }
 
+.lista-diferenciales{
+    width: 40%;
+    display: inline-block; /*para q queden ambos en el mismo bloque no debemos dejar espacios en el HTML*/
+    vertical-align: top;
+}
 
 .imagen-diferenciales{
     width: 60%;
