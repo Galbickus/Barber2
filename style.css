@@ -183,7 +183,7 @@ td, th{
 
 .mapa{
     padding: 3em 0;
-    background: orange;
+    background: linear-gradient(#fefefe, #888888);
 }
 
 .mapa p{
