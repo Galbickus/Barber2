@@ -153,6 +153,7 @@ td, th{
     text-align: center;
     font-size: 2em;
     margin: 1em 0 1em;
+    clear: left;
 }
 
 .principal p{
@@ -169,6 +170,8 @@ td, th{
 
 .utensilios{
    width: 120px; 
+   float: left;
+   margin: 0 20px 20px 0; /* sup - der - inf - izq (sentido horario)*/
 }
 
 .imagenDiferenciales{
