@@ -177,7 +177,7 @@ td, th{
     font-weight: bold;
 }
 */
-
+/*
 .titulo-principal:before{
     content: "[";
 }
@@ -185,6 +185,7 @@ td, th{
 .titulo-principal:after{
     content: "]";
 }
+*/
 
 p::first-line{
     font-style: italic;
