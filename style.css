@@ -90,9 +90,16 @@ footer{
     font-size: 13px;
     margin: 20px;
 }
+/*-----------------------------------------------------*/
+main{
+    width: 940px;
+    margin: 0 auto;    
+}
 
 form{
     margin: 40px 0;
+   /*width: 940px;
+    margin: 0 auto;*/
 }
 
 form label,form legend{
@@ -143,18 +150,20 @@ td, th{
     padding: 8px 15px;
 }
 
-/*CSS para home*/
+/*CSS para home---------------------*/
 
 .banner{
     width: 100%;
 }
 
+/*
 .principal{
     padding: 3em 0;
     background: #fefefe;
     width: 940px;   
     margin: 0 auto;
 }
+*/
 
 .titulo-principal{
     text-align: center;
