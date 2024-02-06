@@ -172,9 +172,12 @@ td, th{
     clear: left;
 }
 
+/*  ---fuera por feo---
 .titulo-principal::first-letter{
     font-weight: bold;
 }
+*/
+
 
 .principal p{
     margin: 0 0 1em;
