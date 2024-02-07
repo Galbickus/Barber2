@@ -91,6 +91,9 @@ footer{
     margin: 20px;
 }
 /*-----------------------------------------------------*/
+
+
+/*-----------------------------------------------------*/
 main{
     width: 940px;
     margin: 0 auto;    
@@ -156,14 +159,14 @@ td, th{
     width: 100%;
 }
 
-/*
+/*--------------------*/
 .principal{
     padding: 3em 0;
     background: #fefefe;
     width: 940px;   
     margin: 0 auto;
 }
-*/
+
 
 .titulo-principal{
     text-align: center;
