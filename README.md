@@ -1,9 +1,19 @@
 # Barber2
-<h1 align="center"> Página Web Barbería </h1> 
+<h1 align="center"> Página Web para Barbería </h1> 
 
-![image](https://github.com/Galbickus/Barber2/assets/135274833/20dc7fa7-ab03-4468-8f6e-0eca36f22d29)
+![image](https://github.com/Galbickus/Barber2/assets/135274833/e41e628c-0e58-4995-882d-f88a18a1fa10)
+![image](https://github.com/Galbickus/Barber2/assets/135274833/2464e332-3793-4db3-897a-a6097076db50)
+![image](https://github.com/Galbickus/Barber2/assets/135274833/e795f7be-1d23-4d1b-8c2c-3f6f1ba46212)
+![image](https://github.com/Galbickus/Barber2/assets/135274833/f2ed4394-9da7-42ea-aa7f-5c0b23619807)
+![image](https://github.com/Galbickus/Barber2/assets/135274833/9732b6ca-1050-4d11-b2ba-e59397fdf116)
 
-![image](https://github.com/Galbickus/Barber2/assets/135274833/94a8e9e4-0818-4907-83dc-c39c97ad3adf)
+<h2 align="center"> Video </h2>
+
+
+
+
+
+
 
 
 <img src="https://img.shields.io/badge/HTML-red"> <img src="https://img.shields.io/badge/-CSS-blue">    <img src="https://img.shields.io/badge/VSC-green">  
