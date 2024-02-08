@@ -242,7 +242,7 @@ p::first-line{
 
 .lista-diferenciales{
     width: 40%;
-    display: inline-block; /*para q queden ambos en el mismo bloque no debemos dejar espacios en el HTML*/
+    display: inline-block; 
     vertical-align: top;
 }
 
@@ -274,14 +274,14 @@ p::first-line{
 }
 
 @media screen and(max-width:480px){
-/*------sin esto mi pag era responsiva pero lo pongo porque lo hace el profe-----------*/
+
 h1{
 text-align: center;
 }
 nav{
     position: static;
 }
-/*-----------------*/
+
 .caja, .principal, .mapa-contenido, .contenido-diferenciales, .video{
     width: auto;
 }
