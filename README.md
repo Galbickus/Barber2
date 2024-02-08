@@ -16,13 +16,6 @@ https://github.com/Galbickus/Barber2/assets/135274833/f9bb05d1-85bc-46c4-af58-66
 
 
 
-
-
-
-
-
-
-
 <img src="https://img.shields.io/badge/HTML-red"> <img src="https://img.shields.io/badge/-CSS-blue">    <img src="https://img.shields.io/badge/VSC-green">  
 
 <h2>Consigna</h2>
@@ -37,5 +30,8 @@ Hacer una página web estática con fotografias.
 
  
  3-HTML5 e CSS3 parte1-aula5
+
+
+
 
 
