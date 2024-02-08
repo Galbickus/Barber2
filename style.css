@@ -175,26 +175,6 @@ td, th{
     clear: left;
 }
 
-/*  ---fuera por feo (pseudo elemento)---
-.titulo-principal::first-letter{
-    font-weight: bold;
-}
-*/
-/*
-.titulo-principal:before{
-    content: "[";
-}
-
-.titulo-principal:after{
-    content: "]";
-}
-*/
-/*
-p::first-line{
-    font-style: italic;
-}
-*/
-
 
 
 .principal p{
