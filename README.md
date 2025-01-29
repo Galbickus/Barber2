@@ -25,7 +25,6 @@ Hacer una página web estática con fotografias.
 <h2> </h2>
  
 
- ![image](https://github.com/Galbickus/Barber2/assets/135274833/99b490d2-5943-4cbd-86bd-69604ec5523c)
  ![image](https://github.com/Galbickus/Barber2/assets/135274833/ab857124-c77b-4bd6-a405-65ac380a9077)
 
   - Estado del proyecto: En construcción.
